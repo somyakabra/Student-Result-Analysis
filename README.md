@@ -7,6 +7,8 @@
 
 ## Relationship between parent's Marital Status and Student's Score
 <img width="431" alt="image" src="https://github.com/somyakabra/Student-Result-Analysis/assets/97023859/846650be-91fb-4f73-b53c-cd7ed616bf6d">
+
+## Comparision of Mathscore , WritingScore and Readingscore
 1. <img width="393" alt="image" src="https://github.com/somyakabra/Student-Result-Analysis/assets/97023859/ad18493d-6042-4fbd-93c3-f04d37828e6c">
 2. <img width="398" alt="image" src="https://github.com/somyakabra/Student-Result-Analysis/assets/97023859/dbb87135-3cda-432f-bf79-6cebd199204a">
 3. <img width="404" alt="image" src="https://github.com/somyakabra/Student-Result-Analysis/assets/97023859/6b22eca2-7fdc-4bba-b038-b2ce229a4bb0">
