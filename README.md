@@ -18,7 +18,8 @@
 <img width="450" alt="image" src="https://github.com/somyakabra/Student-Result-Analysis/assets/97023859/c709d094-e25a-47cf-8b4d-7fe9f85d4af6">
 The "Student-Result-Analysis" project aims to examine various factors influencing student performance and gain insights into these relationships using data analysis techniques. Here are the primary impacts and problems addressed by this project:
 
-Impact of the Project
+## Impact of the Project
+
 1. Educational Insights:
 Provide educators and policymakers with insights into how parental education and marital status impact student performance.
 Highlight the role of gender in academic achievement, which can help in designing gender-sensitive educational programs.
@@ -34,7 +35,8 @@ Help educators understand which subjects students are excelling in or struggling
 5. Data-Driven Decisions:
 Facilitate data-driven decision-making for educational institutions by providing clear, quantifiable data on student performance and its influencing factors.
 Promote a culture of continuous improvement based on data insights, leading to better educational outcomes.
-Primary Problems Addressed
+
+##Primary Problems Addressed
 
 1. Impact of Parental Education:
 Explore how the educational background of parents influences their children's academic performance, identifying potential disparities and areas for support.
