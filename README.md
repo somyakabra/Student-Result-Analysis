@@ -36,7 +36,7 @@ Help educators understand which subjects students are excelling in or struggling
 Facilitate data-driven decision-making for educational institutions by providing clear, quantifiable data on student performance and its influencing factors.
 Promote a culture of continuous improvement based on data insights, leading to better educational outcomes.
 
-##Primary Problems Addressed
+## Primary Problems Addressed
 
 1. Impact of Parental Education:
 Explore how the educational background of parents influences their children's academic performance, identifying potential disparities and areas for support.
